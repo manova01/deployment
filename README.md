@@ -21,7 +21,7 @@ Clone the repository:
 
 ###  
 
-git clone https://github.com/yourusername/taxi-trip-duration-prediction.git
+git clone https://github.com/manova01/taxi-trip-duration-prediction.gi
 cd taxi-trip-duration-prediction
 Build the Docker image:
 
