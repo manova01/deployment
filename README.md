@@ -83,8 +83,7 @@ predict_duration.py: Script to predict trip durations using a pre-trained model.
 model.pkl: Pre-trained machine learning model.
 yellow_tripdata_2023-05.parquet: Sample data file (not included in the repository).
 Contributing
-Contributions are welcome! Please create an issue or submit a pull request for any feature requests or bug fixes.###
+Contributions are welcome! Please create an issue or submit a pull request for any feature requests or bug fixes.
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
