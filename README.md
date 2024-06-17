@@ -76,7 +76,7 @@ An example of how to run the prediction script:
 ### python predict_duration.py
 This will load the data from yellow_tripdata_2023-03 (1).parquet, process it, make predictions, and save the results to predictions.parquet.###
 
-###Files
+### Files
 Dockerfile: Configuration for Docker.
 mean_predicted_duration.py: Script to calculate the mean predicted duration for a given month.
 predict_duration.py: Script to predict trip durations using a pre-trained model.
